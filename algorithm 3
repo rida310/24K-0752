@@ -1,0 +1,9 @@
+Ask the user to enter num1
+Ask the user to enter num2
+Ask the user to enter operator
+Set + to 'result=num1+num2'
+Set - to 'result=num1-num2'
+Set * to 'result=num1*num2'
+Set / to 'result=num1/num2'
+Set % to 'result=num1%num2'
+Print result
