@@ -1,0 +1,7 @@
+Ask user to enter num1
+Ask user to enter num2
+Set result= num2/num1
+Divide result by 2
+If the remainder=0 then result is even
+Else result is odd
+Print result
