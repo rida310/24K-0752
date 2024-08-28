@@ -1,0 +1,20 @@
+Start
+
+Input num1
+Input num2
+Input operator
+
+IF operator is '+'
+ THEN set result to 'num1+num2'
+IF operator is '-'
+ THEN set result to 'num1-num2'
+IF operator is '*'
+ THEN set result to 'num1*num2'
+IF operator is '/'
+ THEN if num2 is not equal to 0 set result to 'num1/num2'
+ELSE st result to 'error'
+
+Print result
+
+End
+ 
