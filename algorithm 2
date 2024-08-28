@@ -1,0 +1,14 @@
+Ask user to enter num between 1-12
+Set '1=Jan'
+Set '2=Feb'
+Set '3=Mar'
+Set '4=Apr'
+Set '5=May'
+Set '6=Jun'
+Set '7=Jul'
+Set '8=Aug'
+Set '9=Sept'
+Set '10=Oct'
+Set '11=Nov'
+Set '12=Dec'
+Display the set value
